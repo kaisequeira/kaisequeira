@@ -30,6 +30,8 @@ data-analytics for Formula SAE-A. In my spare time, I enjoy travelling and takin
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 [![Godot](https://skillicons.dev/icons?i=godot)](https://godotengine.org/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![MUI](https://skillicons.dev/icons?i=materialui)](https://mui.com/material-ui/getting-started/)
+[![MatLab](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html)
 
 ### 📷 My Photography
 
