@@ -35,7 +35,6 @@ data-analytics for Formula SAE-A.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f2b1a3c2-9782-4108-94ae-bc476cc7d855" width="150" />
-  <img src="https://github.com/user-attachments/assets/6dfbce70-56e0-4b40-914c-cc175b2163e2" width="150" />
   <img src="https://github.com/user-attachments/assets/51055670-f3ef-468d-8cb6-71dab560649c" width="150" />
   <img src="https://github.com/user-attachments/assets/fec3d734-d093-4cf1-a5ee-7c2127b2fa98" width="150" /> 
   <img src="https://github.com/user-attachments/assets/bccbd82c-a531-4f89-90ad-19c7c7bd8cf1" width="150" />
@@ -45,5 +44,4 @@ data-analytics for Formula SAE-A.
   <img src="https://github.com/user-attachments/assets/cad231ea-2363-4606-b771-e072673891ff" width="150" />
   <img src="https://github.com/user-attachments/assets/00428843-efae-4e06-8cc8-0971c224c819" width="150" />
   <img src="https://github.com/user-attachments/assets/b113cf4c-dfa0-4703-bfd2-ef79becb6936" width="150" />
-  <img src="https://github.com/user-attachments/assets/aa320134-003e-47ba-9f23-6f66f3f1b696" width="150" />
 </p>
