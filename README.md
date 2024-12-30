@@ -2,7 +2,7 @@
 
 I'm a fourth-year student at UNSW, pursuing a double Bachelor's degree in Software Engineering (Honours) and Commerce, majoring in Finance.
 I use a healthy mix of both frontend and backend technologies across a variety of disciplines - from game design all the way to
-data-analytics for Formula SAE-A.
+data-analytics for Formula SAE-A. In my spare time, I enjoy travelling and taking photos of the places I go. 
 
 [![Static Badge](https://img.shields.io/badge/kaisequeira.com-blue?style=for-the-badge&logo=nextdotjs&logoColor=%23ffffff)](https://www.kaisequeira.com/)
 
