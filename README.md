@@ -34,14 +34,14 @@ data-analytics for Formula SAE-A.
 ### 📷 My Photography
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f2b1a3c2-9782-4108-94ae-bc476cc7d855" width="150" />
-  <img src="https://github.com/user-attachments/assets/51055670-f3ef-468d-8cb6-71dab560649c" width="150" />
-  <img src="https://github.com/user-attachments/assets/fec3d734-d093-4cf1-a5ee-7c2127b2fa98" width="150" /> 
-  <img src="https://github.com/user-attachments/assets/bccbd82c-a531-4f89-90ad-19c7c7bd8cf1" width="150" />
-  <img src="https://github.com/user-attachments/assets/e37d5285-bec7-4e1b-982a-ebd10664f900" width="150" />
-  <img src="https://github.com/user-attachments/assets/68addadd-ccde-4b68-bd8a-b2b432d4694a" width="150" />
-  <img src="https://github.com/user-attachments/assets/11bc5775-bb10-4719-bf89-e677ddfadbb6" width="150" />
-  <img src="https://github.com/user-attachments/assets/cad231ea-2363-4606-b771-e072673891ff" width="150" />
-  <img src="https://github.com/user-attachments/assets/00428843-efae-4e06-8cc8-0971c224c819" width="150" />
-  <img src="https://github.com/user-attachments/assets/b113cf4c-dfa0-4703-bfd2-ef79becb6936" width="150" />
+  <img src="https://github.com/user-attachments/assets/0119ca2b-1b8e-4c7e-b09d-06aa69935d5a" width="150" />
+  <img src="https://github.com/user-attachments/assets/9b644e6c-2b3e-4d6c-90c9-fdbd5b161dbc" width="150" />
+  <img src="https://github.com/user-attachments/assets/73be01a7-8a1f-4731-aa91-d643a3a7893c" width="150" /> 
+  <img src="https://github.com/user-attachments/assets/efc5b147-f090-4e17-b7fa-28067e4eab76" width="150" />
+  <img src="https://github.com/user-attachments/assets/642bfa8f-a8dc-4d3a-be65-1fbb8b99d9dc" width="150" />
+  <img src="https://github.com/user-attachments/assets/5afddb8f-0eff-41a9-8535-7c9ab1484b81" width="150" />
+  <img src="https://github.com/user-attachments/assets/e1b31e5b-cbe2-4607-8db8-ed38ba35afae" width="150" />
+  <img src="https://github.com/user-attachments/assets/bea4ed1e-a59d-4d51-8502-cd70c10a1356" width="150" />
+  <img src="https://github.com/user-attachments/assets/cfa0b4da-b957-47f1-a717-f3d41f5c9403" width="150" />
+  <img src="https://github.com/user-attachments/assets/5351d210-24bd-40f7-9c3b-1ee3f8415a02" width="150" />
 </p>
